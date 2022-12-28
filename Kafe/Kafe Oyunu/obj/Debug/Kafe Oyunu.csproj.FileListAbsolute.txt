@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\bin\Debug\Kafe Oyunu.exe.config
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\bin\Debug\Kafe Oyunu.exe
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\bin\Debug\Kafe Oyunu.pdb
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe Oyunu.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe_Oyunu.AnaForm.resources
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe_Oyunu.Properties.Resources.resources
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe Oyunu.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe Oyunu.exe
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe Oyunu.pdb
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\bin\Debug\Kafe.Kütüphane.dll
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\bin\Debug\Kafe.Kütüphane.pdb
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe_Oyunu.OyunFormu.resources
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe Oyunu.csproj.CopyComplete
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe_Oyunu.SkorFormu.resources
+C:\Users\HP\source\repos\Kafe\Kafe Oyunu\obj\Debug\Kafe_Oyunu.YardimFormu.resources

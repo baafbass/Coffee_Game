@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Kafe\Kafe.Kütüphane\bin\Debug\Kafe.Kütüphane.dll
+C:\Users\HP\source\repos\Kafe\Kafe.Kütüphane\bin\Debug\Kafe.Kütüphane.pdb
+C:\Users\HP\source\repos\Kafe\Kafe.Kütüphane\obj\Debug\Kafe.Kütüphane.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Kafe\Kafe.Kütüphane\obj\Debug\Kafe.Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Kafe\Kafe.Kütüphane\obj\Debug\Kafe.Kütüphane.dll
+C:\Users\HP\source\repos\Kafe\Kafe.Kütüphane\obj\Debug\Kafe.Kütüphane.pdb
+C:\Users\HP\source\repos\Kafe\Kafe.Kütüphane\obj\Debug\Kafe.Kütüphane.Properties.Resources.resources
+C:\Users\HP\source\repos\Kafe\Kafe.Kütüphane\obj\Debug\Kafe.Kütüphane.csproj.GenerateResource.cache
